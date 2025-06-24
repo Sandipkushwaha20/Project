@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce React Application
+# 🛍️ ShopEase (E-Commerce React Application)
 
 A modern, responsive e-commerce web application built with React, TypeScript, and Tailwind CSS. This project demonstrates a complete online shopping experience with product browsing, cart management, user authentication, and checkout functionality.
 
@@ -448,13 +448,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Kajal Singh** - Initial work
 
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the fast build tool
-- Tailwind CSS team for the utility-first CSS framework
-- All contributors and maintainers
-
----
-
-**Note**: This is a demonstration project showcasing modern React development practices. For production use, additional considerations such as security, performance optimization, and testing should be implemented. 
